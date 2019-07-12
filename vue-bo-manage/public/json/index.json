@@ -1,0 +1,57 @@
+{
+  "data": {
+    "advertInfo": {
+      "RESULT": "SUCCESS",
+      "adAccCnt": 25,
+      "hotClickCnt": 1661
+    },
+    "mainOrdClmStat": {
+      "RESULT": "SUCCESS",
+      "canceling": 205,
+      "exchange": 5,
+      "inDlvConfirm301_3month": 0,
+      "returning": 21
+    },
+    "orderStInfo": {
+      "RESULT": "SUCCESS",
+      "nowTotAmtToday": 15,
+      "nowTotAmtWeek": 0
+    },
+    "orderStCntInfo": {
+      "RESULT": "SUCCESS",
+      "inConfirm": 0,
+      "inDlvConfirm301": 0,
+      "inDlvConfirm401": 6,
+      "inDlvConfirm501": 8
+    },
+    "qnaInfo": {
+      "RESULT": "SUCCESS",
+      "qnaCount": 5
+    }
+  },
+
+  "keys" : [
+    {
+      "key": "RESULT"
+    },
+    {
+      "key": "orderStInfo"
+    },
+    {
+      "key": "advertInfo"
+    },
+    {
+      "key": "GENERAL_NTCE"
+    },
+    {
+      "key": "mainOrdClmStat"
+    },
+    {
+      "key": "qnaInfo"
+    },
+    {
+      "key": "orderStCntInfo"
+    } 
+    ] 
+    
+}
